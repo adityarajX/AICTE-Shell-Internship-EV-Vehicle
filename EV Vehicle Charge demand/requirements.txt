@@ -1,1 +1,4 @@
-pip install plotly seaborn scikit-plot shap pyjanitor dtale
+Install the following python libraries by running them in your bash -
+
+pip install plotly seaborn scikit-plot shap pyjanitor dtale matplotlib
+
